@@ -1,4 +1,4 @@
 Package                   Version
 ------------------------- -----------
-gTTS                      2.5.3
-streamlit                 1.39.0
+gTTS == 2.5.3
+streamlit == 1.39.0
